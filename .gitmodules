@@ -1,0 +1,6 @@
+[submodule "path.module-express"]
+	path = path.module-express
+	url = git@github.com:Start-Out/path.module-express.git
+[submodule "path.module-react"]
+	path = path.module-react
+	url = git@github.com:Start-Out/path.module-react.git
